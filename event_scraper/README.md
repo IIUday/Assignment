@@ -18,7 +18,7 @@ A Flask web app that scrapes current events in Sydney from Eventbrite and displa
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/sydney-event-scraper.git
+git clone https://github.com/IIUday/Assignment
 cd event_scraper
 ```
 
